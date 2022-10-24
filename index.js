@@ -1,0 +1,1 @@
+console.log('[WARNING] - We are citizen, not slave! - [WARNING]');
